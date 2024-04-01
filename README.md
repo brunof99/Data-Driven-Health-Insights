@@ -15,7 +15,7 @@ MIMIC-IV is grouped into two primary modules: 'hosp' and 'icu'. The 'hosp' modul
 ## Project Objectives  
 The project will be divided into 4 subprojects, with the following goals:
 
-1. Introduction, cleaning and preprocessing data (Data Preparation & Introduction Notebook).
+1. Cleaning and preprocessing data (Data Preparation Notebook).
 2. Explore patterns and trends in patient data (Exploratory Data Analysis Notebook).
 3. Create predictive models for in-hospital mortality (Predicting Hospital Mortality Notebook).
 4. Identify high-risk patient subgroups for adverse events (Clinical Risk Stratification Notebook).
