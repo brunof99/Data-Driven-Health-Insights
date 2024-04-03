@@ -13,9 +13,8 @@ This notebook presents a comprehensive analysis pipeline designed to extract mea
 MIMIC-IV is grouped into two primary modules: 'hosp' and 'icu'. The 'hosp' module encompasses data derived from the hospital-wide electronic health record (EHR), while the 'icu' module provides data from the ICU specific clinical information system at the Beth Israel Deaconess Medical Center. Key components of the dataset include patient demographics, miscellaneous health measurements, hospitalizations, intra-hospital transfers, laboratory measurements, medication administration, clinical procedures, and more.
 
 ## Project Objectives  
-The project will be divided into 4 subprojects, with the following goals:
+The project will be divided into 3 subprojects, with the following goals:
 
 1. Cleaning and preprocessing data (Data Preparation Notebook).
 2. Explore patterns and trends in patient data (Exploratory Data Analysis Notebook).
-3. Create predictive models for in-hospital mortality (Predicting Hospital Mortality Notebook).
-4. Identify high-risk patient subgroups for adverse events (Clinical Risk Stratification Notebook).
+3. Create predictive models for in-hospital mortality and identify high-risk patient subgroups for adverse events (Predicting Hospital Mortality & Clinical Risk Stratification Notebook).
