@@ -1,4 +1,4 @@
-# Exploring Healthcare Insights with MIMIC-IV Demo Dataset 🏥
+# Exploring Healthcare Insights and Outcomes in Critical Care Patients Data 🏥
 
 **Project Author:** Bruno Ferreira  
 **Source of the Data:** [MIMIC-IV Demo Dataset](https://doi.org/10.13026/dp1f-ex47)  
