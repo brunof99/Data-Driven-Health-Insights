@@ -5,7 +5,7 @@
 **Date:** March-April 2024 (Work in progress)  
 
 ## Introduction  
-In this project, we delve into the Medical Information Mart for Intensive Care (MIMIC)-IV demo dataset, a valuable resource comprising de-identified electronic health records (EHR) from 100 patients admitted to the Beth Israel Deaconess Medical Center between 2011-2016, from emergency departments or intensive care units. MIMIC-IV can serve as a foundational repository for healthcare research, enabling exploration of diverse clinical scenarios, predictive modeling, and risk stratification.
+In this project, we explore the Medical Information Mart for Intensive Care (MIMIC)-IV demo dataset, a valuable resource comprising de-identified electronic health records (EHR) from 100 patients admitted to the Beth Israel Deaconess Medical Center between 2011-2016, from emergency departments or intensive care units. MIMIC-IV can serve as a foundational repository for healthcare research, enabling exploration of diverse clinical scenarios, predictive modeling, and risk stratification.
 
 This notebook presents a comprehensive analysis pipeline designed to extract meaningful insights from the MIMIC-IV demo dataset. Leveraging Python libraries and industry-standard methodologies, we'll aim to uncover trends, patterns, and predictive models related to patient outcomes and clinical events.
 
