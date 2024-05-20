@@ -2,7 +2,7 @@
 
 **Project Author:** Bruno Ferreira  
 **Data Source:** [MIMIC-IV Demo Dataset](https://doi.org/10.13026/dp1f-ex47)  
-**Date:** March-April 2024 (Work in progress)
+**Date:** March-May 2024 (Work in progress)
 
 ## Introduction  
 In this project, I explore the Medical Information Mart for Intensive Care (MIMIC)-IV demo dataset, a valuable resource comprising de-identified electronic health records (EHR) from 100 patients admitted to the Beth Israel Deaconess Medical Center between 2011-2016, all from emergency departments or intensive care units. MIMIC-IV can serve as a foundational repository for healthcare research, enabling exploration of diverse clinical scenarios, predictive modeling, and risk stratification.
