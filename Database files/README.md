@@ -9,4 +9,4 @@ Johnson, A.E.W., Bulgarelli, L., Shen, L. et al. MIMIC-IV, a freely accessible e
 - Demo database source:
 Johnson, A., Bulgarelli, L., Pollard, T., Horng, S., Celi, L. A., & Mark, R. (2023). MIMIC-IV Clinical Database Demo (version 2.2). PhysioNet. https://doi.org/10.13026/dp1f-ex47.
 
-P.S.: This folder only contains the tables relevant for the planned subprojects.
+P.S.: This folder only contains the tables relevant for the project.
