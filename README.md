@@ -16,4 +16,4 @@ The project will be divided into 3 subprojects, with the following goals:
 
 1. Cleaning and preprocessing the raw data into a more useful format (Data Cleaning & Preparation Notebook).
 2. Explore patterns and trends in critical care patient data (Exploratory Data Analysis Notebook).
-3. Create predictive models for in-hospital mortality and identify high-risk patient subgroups for adverse events (Predicting Hospital Mortality & Clinical Risk Stratification Notebook).
+3. Create predictive model for in-hospital mortality (Predicting Hospital Mortality Notebook).
